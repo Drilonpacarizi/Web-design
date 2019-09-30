@@ -1,16 +1,16 @@
 {
-  "name": "starter",
+  "name": "starter1",
   "version": "1.0.0",
   "description": "Loading page for starter",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass":"node-sass sass/main.scss css/style.css -w"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Drilonpacarizi/web-design.git"
   },
-  "author": "",
+  "author": "Drilon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Drilonpacarizi/web-design/issues"
@@ -18,6 +18,5 @@
   "homepage": "https://github.com/Drilonpacarizi/web-design#readme",
   "devDependencies": {
     "node-sass": "^4.12.0"
-  },
-  "dependencies": {}
+  }
 }
