@@ -10,6 +10,7 @@
   transform: skewX(-12deg);
 
   &__shape {
+    margin-top: -22px;
     width: 15rem;
     height: 15rem;
     float: left;
@@ -18,7 +19,7 @@
 
     -webkit-clip-path: circle(50% at 50% 50%);
     clip-path: circle(50% at 50% 50%);
-    transform: translate(-3rem) skewX(12deg);
+    transform: translate(-3rem) skewX(13deg);
     position: relative;
   }
 
