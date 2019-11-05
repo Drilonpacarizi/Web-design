@@ -394,7 +394,7 @@ body {
   background-color: rgba(255, 255, 255, 0.5);
   border: none;
   border-bottom: 3px solid transparent;
-  width: 40%;
+  width: 90%;
   display: block;
   transition: all 0.3s; }
   .form__input::-webkit-input-placeholder {
@@ -420,7 +420,7 @@ body {
   transform: translateY(-4rem); }
 
 .form__radio-group {
-  width: 25%;
+  width: 49%;
   display: inline-block; }
 
 .form__radio-input {
@@ -539,5 +539,5 @@ body {
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
   height: 50rem; }
   .book__form {
-    width: 50;
+    width: 50%;
     padding: 6rem; }
